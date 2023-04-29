@@ -2,3 +2,6 @@
 ![Problem](https://user-images.githubusercontent.com/93050709/235250305-5df8ae44-3814-4e96-b81b-afd324b44394.jpg)
 
 Ref: https://doi.org/10.1093/mnras/stac3736
+
+
+This project is project part of our Fluid and Magneto hydrodynamics which required us to do theoretical modelling.
